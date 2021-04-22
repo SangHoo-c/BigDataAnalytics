@@ -1,6 +1,6 @@
-# 2020 - 1 빅데이터분석방법론 
+# 2020 - 1 빅데이터분석방법론 SWE3049_41
 
-# bigdata_skku
+# Introduction to Big Data Analytics
 image classification using PCA &amp; SVM
 
 ## crawling.py  
